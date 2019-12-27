@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #898a67;
+  background-image: url("https://transparenttextures.com/patterns/church.png");
+
+}

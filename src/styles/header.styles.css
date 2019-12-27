@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  align-items: center;
+  height: 12vh;
+  font-family: "Bangers", cursive;
+  background-color: #f5ba13;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
+.header > div {
+  padding: 5px;
+  font-size: 2em;
+}
+.date {
+  margin-left: auto;
+  margin-right: 1em;
+}
